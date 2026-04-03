@@ -1,0 +1,9 @@
+{
+    "id": "Papurrisitos Mod",
+    "name": "Papurrisitos Mod",
+    "author": ["KATKONINE"],
+    "description": "El Grupo de los papurrisitos hecho en balatro",
+    "prefix": "azpr",
+    "main_file": "main.lua",
+    "version": "0.0.1.0"
+}
